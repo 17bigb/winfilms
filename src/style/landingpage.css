@@ -1,0 +1,26 @@
+.myBG {
+    height: 100vh;
+    background: url(../assets/img/bg/bg1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.intro {
+    height: 350px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px white;
+}
+
+.trending {
+    height: 100vh;
+    background: url(../assets/img/trending/batman.jpg);    
+    background-position: center; 
+}
