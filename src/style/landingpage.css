@@ -20,7 +20,29 @@
 }
 
 .trending {
-    height: 100vh;
-    background: url(../assets/img/trending/batman.jpg);    
+    height: auto;
+    background: url(../assets/img/bg/bg.jpg);    
     background-position: center; 
 }
+
+.movieWrapper{
+
+}
+
+.movieImage {        
+    height: auto;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.images{
+    height: 500px;    
+}
+
+.superhero {
+    height: auto;
+    background: url(../assets/img/bg/bg.jpg);    
+    background-position: center; 
+}
+

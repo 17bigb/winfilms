@@ -7,7 +7,7 @@ const Intro = () => {
               <Col>
               <div className="title">WINFILMS WELCOME</div>    
               <div className="introButton mt-4 d-flex justify-content-center">
-                <Button variant="dark">Explore Dunia Film Mu🎥</Button>
+                <Button variant="dark" href="#trending">Explore Dunia Film Mu🎥</Button>
               </div>
               </Col>
             </Row>

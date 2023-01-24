@@ -4,14 +4,14 @@ const NavigationBar = () => {
         <div>
             <Navbar variant="dark">
                 <Container>
-                    <Navbar.Brand>WINFILM</Navbar.Brand>
+                    <Navbar.Brand href="#">WINFILM</Navbar.Brand>
                     <Nav> 
-                        <Nav.Link>Superhero</Nav.Link>
-                        <Nav.Link>Trending</Nav.Link>
-                    </Nav>
+                        <Nav.Link href="#trending">Trending</Nav.Link>
+                        <Nav.Link href="#superhero">Superhero</Nav.Link>
+                    </Nav>                    
                 </Container>
-            </Navbar>
-        </div>
+            </Navbar>            
+        </div>        
     )
 }
 
