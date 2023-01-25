@@ -10,7 +10,7 @@ const Superhero = () => {
         <div>
             <Container>                
             <br/>
-                <h1 className="text-white">Superhero Movies</h1>              
+                <h1 className="text-white text-center">Marvel Movies</h1>              
                 <Row>
                     <Col md={4} className="movieWrapper" id="superhero">
                         <Card className="bg-dark movieImage">
